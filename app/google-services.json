@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "713620946486",
+    "firebase_url": "https://loginsystem-ef319.firebaseio.com",
+    "project_id": "loginsystem-ef319",
+    "storage_bucket": "loginsystem-ef319.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:713620946486:android:4bcc6ff78b39e8c1b2e297",
+        "android_client_info": {
+          "package_name": "com.jovanovic.stefan.myfirebaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "713620946486-m4f7amm49jk81elnl8amdkribng277bh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0cI34D7QquCj4s9vY0fgisZUC1KKHdDU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "713620946486-m4f7amm49jk81elnl8amdkribng277bh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
